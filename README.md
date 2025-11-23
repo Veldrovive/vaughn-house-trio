@@ -1,8 +1,16 @@
-This is a small collection of documents collected after finding a CD labeled "Vaughn House Trio" at the Salvation Army in Ann Arbor. On the CD were two track:
+This is a small collection of documents collected after finding a CD labeled "Vaughn House Trio" at the Salvation Army in Ann Arbor. On the CD were two tracks:
 1. A recording of a parody song sung by the titular Vaughn House Trio around the year 1950.
 2. A year in memorandum for the 1949-1950 University of Michigan year.
 
 As far as I can tell the Vaughn House Trio was a musical group affiliated with the "Victor C. Vaughan House", a residence for the University of Michigan ([source](http://milproj.dc.umich.edu/mort/medical/hospitals/Victor%20Vaughn%20House/index.html), [source](https://bentley.umich.edu/legacy-support/campus_tour/victorvaughan.php)).
+
+We think that the group was made up of singers Stan Challis, Bill Brehm, and Don Srull ([source](https://digital.bentley.umich.edu/midaily/mdp.39015071756279/351), [source](http://dtsearch.chelseadistrictlibrary.org/dtsearch/Chelsea%20Library/multi_by_year/1951/1951-12-06-ChelseaStandard.pdf), [source](https://digital.bentley.umich.edu/midaily/mdp.39015071756246/604), [source](https://digital.bentley.umich.edu/midaily/mdp.39015071756303/289)).
+
+William (Bill) Brehm [source](https://en.wikipedia.org/wiki/William_K._Brehm) [source](https://www.niefuneralhomes.com/memorials/william-brehm/5623018/) [source](https://giving.umich.edu/um/brehm-scholars-program/the-donor).
+
+Stan Challis [source](https://aadl.org/aa_news_19490422-heusel_has_lead_in_lincoln_play).
+
+Don Srull [source](https://www.jstor.org/stable/10.7249/mg265rc.16?seq=15) long time friends with Brehm. More sources [source](https://www.smithsonianmag.com/air-space-magazine/modelers-tale-don-srull-interview-model-airplanes-180957297/) [source for Don and Bill](https://www.jstor.org/stable/10.7249/mg265rc.16?seq=1)
 
 Collected references:
 1. The debate between self-professed communist Herbert J. Phillips who was fired from the University of Washington for being communist and Preston Slosson who was a UofM professor. An image of an article from the April 28th, 1950 Ann Arbor News on the AADLE website is included ([source](https://aadl.org/node/220678)).
