@@ -1,6 +1,48 @@
-This is a small collection of documents collected after finding a CD labeled "Vaughn House Trio" at the Salvation Army in Ann Arbor. On the CD were two tracks:
-1. A recording of a parody song sung by the titular Vaughn House Trio around the year 1950.
+# Vaughan House Trio
+This is a small collection of documents collected after finding a CD labeled "Vaughan House Trio" at the Salvation Army in Ann Arbor. On the CD were two tracks:
+1. A recording of a parody song sung by the titular Vaughan House Trio around the year 1950.
 2. A year in memorandum for the 1949-1950 University of Michigan year.
+
+## Vaughan House Trio
+We believe Vaughan House Trio were a group associated with the "Victor C. Vaughan House", a residence for the University of Michigan ([1], [2]). However, the Vaughan House seems to have been a residence for medical students, while the member of the trio were 
+
+
+## References
+[1] "Victor C. Vaughan House" (http://milproj.dc.umich.edu/mort/medical/hospitals/Victor%20Vaughn%20House/index.html)
+[2] "Victor Vaughan Dormitory" (https://bentley.umich.edu/legacy-support/campus_tour/victorvaughan.php)
+
+## Things to check:
+Find if there is a plaque at the performing school for Brehm.
+Men's glee club 1950
+
+
+## Not yet organized sources
+https://ntrs.nasa.gov/api/citations/19730016219/downloads/19730016219.pdf
+https://rcbookcase.com/data/media/4/10MB_October_1988.pdf
+https://outerzone.co.uk/search/results.asp?keyword=designerID:185
+https://www.medicinethatspeaks.org/health-system-advisory-board
+https://www.virginiachronicle.com/?a=d&d=MPJ19710416.1.1&e=-------en-20--1--txt-txIN---------
+https://files.eric.ed.gov/fulltext/ED065783.pdf
+https://apps.dtic.mil/sti/tr/pdf/ADA155457.pdf
+https://apps.dtic.mil/sti/tr/pdf/ADA044937.pdf
+https://www.linkedin.com/in/don-srull-94a872167/
+https://www.familysearch.org/ark:/61903/1:1:KTL4-YZB?lang=en
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015039396679&seq=390&q1=Challis (Challis and Brehm are in 1950 year book Don in 1951)
+https://catalog.hathitrust.org/Record/000061791
+https://www.readkong.com/page/the-history-of-the-university-of-michigan-men-s-glee-club-3576871
+https://pulp.aadl.org/aaobserver/15254
+https://www.familysearch.org/ark:/61903/1:1:QPT3-89V7?lang=en
+
+
+
+Donald Walter Srull
+
+William Keith Brehm
+
+Stan Harry Challis
+
+
+
 
 As far as I can tell the Vaughn House Trio was a musical group affiliated with the "Victor C. Vaughan House", a residence for the University of Michigan ([source](http://milproj.dc.umich.edu/mort/medical/hospitals/Victor%20Vaughn%20House/index.html), [source](https://bentley.umich.edu/legacy-support/campus_tour/victorvaughan.php)).
 
